@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @christiewolters
-- 👀 I’m interested in robots, games, and finishing/improving things.
+- 👀 I’m interested in robots, games, and informed app-making.
 - 🌱 I’m currently learning to apply what I've learned in school to real-world projects.
 - 💞️ I’m looking to collaborate on a unity game or other project.
 - 📫 How to reach me: christiewolters@gmail.com
