@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @christiewolters
-- 👀 I’m interested in robots, games, and informed app-making.
-- 🌱 I’m currently learning to apply what I've learned in school to real-world projects.
-- 💞️ I’m looking to collaborate on a unity game or other project.
+- 👀 I like to make things.
+- 🌱 I’m currently in my first year as an FT SWEing professional.
+- 💞️ When I get annoyed with things, I try to fix them.
 - 📫 How to reach me: christiewolters@gmail.com
 
 <!---
