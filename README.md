@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christiewolters
 - 👀 I like to make things.
-- 🌱 I’m currently in my first year as an FT SWEing professional.
+- 🌱 I’m currently in my third year as an FT SWEing professional.
 - 💞️ When I get annoyed with things, I try to fix them.
 - 📫 How to reach me: christiewolters@gmail.com
 
